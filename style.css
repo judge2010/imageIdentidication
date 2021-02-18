@@ -21,11 +21,15 @@ font-size: 40px;
     box-shadow:2px 5px 50px bisque ;
 }
 #snapshot{
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     box-shadow:2px 5px 50px bisque ;
 }
 #devloped{
     width: 100%;
     font-family: 'Shadows Into Light', cursive;
+}
+#snapshot{
+    width: 250px;
+    height: 250px;
 }
